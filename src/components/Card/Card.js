@@ -1,5 +1,5 @@
 const Card = ({ id, urls, description, alt_description }) => {
-  const { full, raw, regular, small, thumb } = urls;
+  const { small } = urls;
   return (
     <section className={`card`}>
       <div className="card__image">
