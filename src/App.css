@@ -46,3 +46,8 @@ a {
   --tertiary: #a27b5c;
   --text: #dcd7c9;
 }
+
+
+.container{
+  padding: 1rem 1rem;
+}
