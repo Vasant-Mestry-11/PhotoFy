@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useState } from "react";
+import { useState } from "react";
 import "./App.css";
 import Navbar from "./components/Navbar/Navbar";
 import Card from "./components/Card/Card";
